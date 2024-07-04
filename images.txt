@@ -1,1 +1,1 @@
-ghcr.io/synocommunity/spksrc
+mysql:9.0
