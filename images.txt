@@ -1,1 +1,1 @@
-jasminexzzz/blossom:latest
+codegentoolbox/laftools-linux-x64:latest
