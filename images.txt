@@ -1,1 +1,1 @@
-codegentoolbox/laftools-linux-x64:latest
+https://github.com/linuxserver/docker-wps-office
