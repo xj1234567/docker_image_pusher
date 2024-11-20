@@ -1,1 +1,2 @@
 lscr.io/linuxserver/wps-office:latest
+lscr.io/linuxserver/wps-office:latest
