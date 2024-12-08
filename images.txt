@@ -1,1 +1,1 @@
-mockserver/mockserver
+easymock/easymock
