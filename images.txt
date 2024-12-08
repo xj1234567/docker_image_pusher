@@ -1,1 +1,1 @@
-mockoon/cli:latest
+mockserver/mockserver
