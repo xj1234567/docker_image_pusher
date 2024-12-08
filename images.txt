@@ -1,1 +1,1 @@
-wiremock/wiremock:latest
+mockoon/cli:latest
