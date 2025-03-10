@@ -1,1 +1,1 @@
-gcr.io/zenika-hub/alpine-chrome:123
+ghcr.io/hoarder-app/hoarder:0.22.0-release
