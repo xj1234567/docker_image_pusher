@@ -1,1 +1,1 @@
-kevin2li/pdf-guru
+gcr.io/zenika-hub/alpine-chrome:123
