@@ -1,1 +1,1 @@
-ghcr.io/hoarder-app/hoarder:0.22.0-release
+ghcr.io/hoarder-app/hoarder
