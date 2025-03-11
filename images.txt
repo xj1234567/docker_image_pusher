@@ -1,1 +1,1 @@
-ghcr.io/hoarder-app/hoarder
+microsoft/mssql-server-linux
