@@ -1,1 +1,1 @@
-microsoft/mssql-server-linux
+liaisonintl/mssql-server-linux:v2019
