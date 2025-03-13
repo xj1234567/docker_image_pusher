@@ -1,1 +1,1 @@
-liaisonintl/mssql-server-linux:v2019
+crocodilestick/calibre-web-automated:latest
