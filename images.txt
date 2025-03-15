@@ -1,1 +1,1 @@
-dokploy/dokploy
+ghcr.io/xpipe-io/xpipe-webtop:latest
