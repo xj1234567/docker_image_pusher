@@ -1,1 +1,1 @@
-crocodilestick/calibre-web-automated:latest
+dokploy/dokploy
