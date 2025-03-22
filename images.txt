@@ -1,1 +1,1 @@
-ghcr.io/xpipe-io/xpipe-webtop:latest
+ghcr.io/tonghohin/screen-sharing:latest
