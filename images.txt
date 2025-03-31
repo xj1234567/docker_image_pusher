@@ -1,1 +1,1 @@
-ghcr.io/tonghohin/screen-sharing:latest
+filemon/oracle_11g
