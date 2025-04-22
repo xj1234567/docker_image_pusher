@@ -1,1 +1,1 @@
-ling7334/hoppscotch:latest
+ hoppscotch/proxyscotch
