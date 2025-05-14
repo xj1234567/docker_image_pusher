@@ -1,1 +1,1 @@
- hoppscotch/proxyscotch
+jpomdocker/jpom
