@@ -1,1 +1,1 @@
-jpomdocker/jpom
+didi/knowstreaming:latest
