@@ -1,1 +1,1 @@
-didi/knowstreaming:latest
+cmakio/cmak:3.0.0.5
