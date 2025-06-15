@@ -1,1 +1,1 @@
-cmakio/cmak:3.0.0.5
+ghcr.io/civilblur/mazanoke:latest
