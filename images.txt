@@ -1,1 +1,1 @@
-ghcr.io/civilblur/mazanoke:latest
+linuxserver/paperless-ng:latest
