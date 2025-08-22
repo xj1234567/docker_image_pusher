@@ -1,1 +1,1 @@
-linuxserver/paperless-ng:latest
+docker.redpanda.com/redpandadata/console:latest
