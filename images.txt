@@ -1,1 +1,1 @@
-helllord/tldraw:latest
+helllord/tldraw:v3.15.5
