@@ -1,1 +1,1 @@
-ratneo/tldraw:latest
+dkarchmervue/ftp-admin
