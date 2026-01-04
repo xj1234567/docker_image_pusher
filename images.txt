@@ -1,2 +1,2 @@
-pubuzhixing/kspeeder:latest
+pubuzhixing/kspeeder
 
