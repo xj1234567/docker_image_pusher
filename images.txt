@@ -1,2 +1,2 @@
- wxingheng/markdown-to-image-serve:latest
+ wxingheng/markdown-to-image-serve:0.0.5
 
