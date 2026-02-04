@@ -1,1 +1,1 @@
-ghcr.io/c4illin/convertx
+ghcr.io/cthonney/maptoposter-docker:latest
