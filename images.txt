@@ -1,1 +1,1 @@
-ghcr.io/cthonney/maptoposter-docker:latest
+node:24-alpine
